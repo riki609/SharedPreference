@@ -19,12 +19,7 @@ public class LoginActivity extends AppCompatActivity {
     private EditText edtUsername;
     private EditText edtPassword;
 
-    //Tanggal Pengerjaan : 28-4-2020
-    //Deskripsi Pengerjaan : Mengerjakan Semua Kelas
-    //NIM : 10117137
-    //Nama: Duden Heryana
-    //Kelas : IF-4
-
+ 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
